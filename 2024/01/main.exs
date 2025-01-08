@@ -1,3 +1,5 @@
+# https://adventofcode.com/2024/day/1
+
 defmodule Mod do
   def get_total_distance(filename) do
     numbers =
